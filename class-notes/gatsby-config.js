@@ -3,7 +3,7 @@ module.exports = {
     title: `How to Play Fortnite`,
     author: {
       name: `Isaiah Gomez`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `Fortnite`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
